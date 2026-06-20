@@ -1,0 +1,21 @@
+{
+  "name": "build-your-own-event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smileeunsong/build-your-own-event-emitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/smileeunsong/build-your-own-event-emitter/issues"
+  },
+  "homepage": "https://github.com/smileeunsong/build-your-own-event-emitter#readme"
+}
